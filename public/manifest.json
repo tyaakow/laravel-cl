@@ -3,7 +3,7 @@
 	"lang" : "en",
 	"name" : "Laravel",
 	"scope" : "/",
-	"display" : "browser",
+	"display" : "standalone",
 	"start_url" : "https://abcroatia.com/",
 	"short_name" : "Laravel",
 	"theme_color" : "transparent",
