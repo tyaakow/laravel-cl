@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
+        <link rel='manifest' href='/manifest.json'>
         <title>Laravel</title>
 
         <!-- Fonts -->
@@ -64,7 +64,7 @@
         </style>
 
 
-        <link rel='manifest' href='/manifest.json'>
+
 
 
     </head>
@@ -99,7 +99,7 @@
             </div>
         </div>
 
-        <script>
+        <script type="module">
             // This is the "Offline page" service worker
 
             // Add this below content to your HTML page inside a <script type="module"></ script> 
